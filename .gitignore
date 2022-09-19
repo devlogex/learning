@@ -30,3 +30,5 @@ target*
 
 .idea
 .vscode
+
+flink-1.15.2
